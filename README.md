@@ -1,1 +1,1 @@
-Created a Power BI dashboard to analyze social media engagement metrics and trends. Presented insights on audience behavior to enhance content strategy and maximize reach.
+Designed an interactive Power BI dashboard to analyse sales performance and trends. Integrated sales data from multiple sources and performed data cleaning and transformation using Power Query. Created DAX measures to calculate key performance indicators (KPIs) such as revenue, profit margins, and sales growth. 
